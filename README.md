@@ -12,3 +12,9 @@ caesar.c - Caesar cipher (MOD26) in C.
 armstrong.c - Detecting whether a number is an Armstrong number in C.
 
 bhikaar_savkaar.cpp - A classic card game made in C++
+
+2dpaln.c - Find palindromes in a matrix
+
+disc_schedule.c - Disc Scheduling algorithms
+
+friend_network.c - BFS friend search network
